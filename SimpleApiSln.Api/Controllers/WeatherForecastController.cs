@@ -14,7 +14,7 @@ namespace SimpleApiSln.Api.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing1", "Bracing1", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing1", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
