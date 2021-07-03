@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJMEdIYz43xjPe+vouv6IGOsDNX39bXkhQdwG5jqVpBU/WCcuEn0z30CadGU0/tNgvdAOqdHE0jcb4om54xZUA==",
+  "dgSpecHash": "i5A8KeE1NTaEe0mp7Nx6eI2kKc3Z1w3fSiFoHMxj8wd/Xqcj7h+CNN6jY7pynEvSJAczSjVHtvUSzcW3L2EHqw==",
   "success": true,
-  "projectFilePath": "C:\\solutions\\SimpleApiSln\\simpleApiSln.api\\SimpleApiSln.api.csproj",
+  "projectFilePath": "C:\\solutions\\SimpleApiSln\\SimpleApiSln.Api\\SimpleApiSln.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

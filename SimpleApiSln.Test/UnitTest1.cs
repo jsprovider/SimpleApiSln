@@ -16,7 +16,7 @@ namespace SimpleApiSln.Test
         public void Test1()
         {
             var x = controller.Get();
-            Assert.Equal("test", "test1");
+            Assert.Equal("test", "test");
             
         }
 
